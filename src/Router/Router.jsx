@@ -5,6 +5,7 @@ import Donation from "../Page/Donation/Donation";
 import Login from "../Page/Login/Login";
 import Home from "../Components/Home";
 import Statistics from "../Page/Statistics/Statistics";
+// import Login2 from "../Page/Login/Login2";
 
 const mycreaterouter = createBrowserRouter([
     {
@@ -15,7 +16,9 @@ const mycreaterouter = createBrowserRouter([
         children: [
           {
             path: "/home",
-            element:<Home></Home>
+            element:<Home></Home>,
+            loader: () => fetch("./data.json")
+            
           },
           {
             path: "/donation",

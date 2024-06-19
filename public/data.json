@@ -1,176 +1,168 @@
-[
+
+  [
     {
-        "name": "iPhone 14",
-        "id": 1,
-        "title": "Apple iPhone 14",
-        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-117602/Apple-iPhone-14-Pro-Max-featured-image-packshot-review-Recovered.jpg",
-        "description": "The latest iPhone with A15 Bionic chip, 6.1-inch Super Retina XDR display.",
-        "price": 999,
-        "rating": 4.8
-      },
-      {
-        "name": "Samsung Galaxy S21",
-        "id": 2,
-        "title": "Samsung Galaxy S21",
-        "image": "https://m-cdn.phonearena.com/images/articles/383784-image/Samsung-Galaxy-S21-Ultra-vs-OnePlus-9-Pro.jpg",
-        "description": "Samsung's flagship phone with Snapdragon 888, 120Hz AMOLED display.",
-        "price": 799,
-        "rating": 4.7
-      },
-      {
-        "name": "Google Pixel 6",
-        "id": 3,
-        "title": "Google Pixel 6",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/10/google-pixel-6-series-biggest-stories/-1200/gsmarena_001.jpg",
-        "description": "Google's latest with Tensor chip, best-in-class camera software.",
-        "price": 599,
-        "rating": 4.6
-      },
-      {
-        "name": "OnePlus 9",
-        "id": 4,
-        "title": "OnePlus 9",
-        "image": "https://m-cdn.phonearena.com/images/articles/383784-image/Samsung-Galaxy-S21-Ultra-vs-OnePlus-9-Pro.jpg",
-        "description": "Flagship killer with Snapdragon 888, 120Hz Fluid AMOLED display.",
-        "price": 729,
-        "rating": 4.5
-      },
-      {
-        "name": "Sony Xperia 5 II",
-        "id": 5,
-        "title": "Sony Xperia 5 II",
-        "image": "https://cdn.pocket-lint.com/r/s/970x/assets/images/153493-phones-review-hands-on-sony-xperia-5-ii-preview-image1-pik53zlfnu.jpg",
-        "description": "Compact powerhouse with Snapdragon 865, 120Hz OLED display.",
-        "price": 949,
-        "rating": 4.4
-      },
-      {
-        "name": "Xiaomi Mi 11",
-        "id": 6,
-        "title": "Xiaomi Mi 11",
-        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-70261/xiaomi-mi-11-featured-image-packshot-review.jpg",
-        "description": "Affordable flagship with Snapdragon 888, 108MP camera.",
-        "price": 749,
-        "rating": 4.5
-      },
-      {
-        "name": "Huawei P40 Pro",
-        "id": 7,
-        "title": "Huawei P40 Pro",
-        "image": "https://fdn.gsmarena.com/imgroot/news/20/03/huawei-p40-announce-hands-on/-1200/gsmarena_001.jpg",
-        "description": "Exceptional camera with Kirin 990, 50MP ultra-vision camera.",
-        "price": 899,
-        "rating": 4.3
-      },
-      {
-        "name": "LG V60 ThinQ",
-        "id": 8,
-        "title": "LG V60 ThinQ",
-        "image": "https://fdn.gsmarena.com/imgroot/reviews/20/lg-v60-thinq-5g/lifestyle/-1024w2/gsmarena_016.jpg",
-        "description": "Dual screen capability with Snapdragon 865, 5000mAh battery.",
-        "price": 799,
-        "rating": 4.2
-      },
-      {
-        "name": "Motorola Edge Plus",
-        "id": 9,
-        "title": "Motorola Edge Plus",
-        "image": "https://m-cdn.phonearena.com/images/articles/361398-image/Motorola-Edge-vs-Edge.jpg",
-        "description": "Flagship performance with Snapdragon 865, curved OLED display.",
-        "price": 999,
-        "rating": 4.1
-      },
-      {
-        "name": "Nokia 8.3 5G",
-        "id": 10,
-        "title": "Nokia 8.3 5G",
-        "image": "https://fdn.gsmarena.com/imgroot/news/20/03/nokia-8-3/-1200/gsmarena_004.jpg",
-        "description": "5G ready with Snapdragon 765G, PureView quad camera.",
-        "price": 699,
-        "rating": 4.0
-      },
-      {
-        "name": "Asus ROG Phone 5",
-        "id": 11,
-        "title": "Asus ROG Phone 5",
-        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-84181/asus-rog-phone-5-hero-1024x691.jpg",
-        "description": "Ultimate gaming phone with Snapdragon 888, 144Hz AMOLED display.",
-        "price": 999,
-        "rating": 4.7
-      },
-      {
-        "name": "Oppo Find X3 Pro",
-        "id": 12,
-        "title": "Oppo Find X3 Pro",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/03/oppo-find-x3-series-renders-price/-1200/gsmarena_001.jpg",
-        "description": "Cutting-edge design with Snapdragon 888, 50MP quad camera.",
-        "price": 1099,
-        "rating": 4.6
-      },
-      {
-        "name": "Realme GT",
-        "id": 13,
-        "title": "Realme GT",
-        "image": "https://fdn.gsmarena.com/imgroot/reviews/21/realme-gt/lifestyle/-1024w2/gsmarena_007.jpg",
-        "description": "Affordable flagship with Snapdragon 888, 120Hz AMOLED display.",
-        "price": 599,
-        "rating": 4.4
-      },
-      {
-        "name": "Vivo X60 Pro+",
-        "id": 14,
-        "title": "Vivo X60 Pro+",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/01/vivo-x60-pro-plus-official/-1200/gsmarena_001.jpg",
-        "description": "High-end device with Snapdragon 888, ZEISS optics.",
-        "price": 949,
-        "rating": 4.6
-      },
-      {
-        "name": "Lenovo Legion Phone Duel",
-        "id": 15,
-        "title": "Lenovo Legion Phone Duel",
-        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-69989/Lenovo-Legion-Phone-Duel-featured-image-packshot-review-Recovered.jpg",
-        "description": "Gaming-focused phone with Snapdragon 865+, 144Hz display.",
-        "price": 899,
-        "rating": 4.5
-      },
-      {
-        "name": "ZTE Axon 30 Ultra",
-        "id": 16,
-        "title": "ZTE Axon 30 Ultra",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/04/zte-axon-30-ultra-press-renders/-1200/gsmarena_001.jpg",
-        "description": "Premium design with Snapdragon 888, 144Hz AMOLED display.",
-        "price": 749,
-        "rating": 4.3
-      },
-      {
-        "name": "Nubia Red Magic 6",
-        "id": 17,
-        "title": "Nubia Red Magic 6",
-        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79947/nubia_redmagic_6_pro_back.jpg",
-        "description": "High-performance gaming phone with Snapdragon 888, 165Hz display.",
-        "price": 699,
-        "rating": 4.6
-      },
-      {
-        "name": "Honor 50",
-        "id": 18,
-        "title": "Honor 50",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/06/honor-50-series-announced/-1200/gsmarena_001.jpg",
-        "description": "Stylish design with Snapdragon 778G, 108MP camera.",
-        "price": 549,
-        "rating": 4.5
-      },
-      {
-        "name": "Poco F3",
-        "id": 19,
-        "title": "Poco F3",
-        "image": "https://fdn.gsmarena.com/imgroot/news/21/03/poco-f3-official/-1200/poco-f3.jpg",
-        "description": "Great value with Snapdragon 870, 120Hz AMOLED display.",
-        "price": 399,
-        "rating": 4.5
-      }
-      
-]
+      "name": "iPhone 14",
+      "id": 1,
+      "title": "Apple iPhone 14",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-117602/Apple-iPhone-14-Pro-Max-featured-image-packshot-review-Recovered.jpg",
+      "description": "The latest iPhone with A15 Bionic chip, 6.1-inch Super Retina XDR display.",
+      "price": 999,
+      "rating": 4.8
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "id": 2,
+      "title": "Samsung Galaxy S21",
+      "image": "https://m-cdn.phonearena.com/images/articles/383784-image/Samsung-Galaxy-S21-Ultra-vs-OnePlus-9-Pro.jpg",
+      "description": "Samsung's flagship phone with Snapdragon 888, 120Hz AMOLED display.",
+      "price": 799,
+      "rating": 4.7
+    },
+    {
+      "name": "Google Pixel 6",
+      "id": 3,
+      "title": "Google Pixel 6",
+      "image": "https://fdn.gsmarena.com/imgroot/news/21/10/google-pixel-6-series-biggest-stories/-1200/gsmarena_001.jpg",
+      "description": "Google's latest with Tensor chip, best-in-class camera software.",
+      "price": 599,
+      "rating": 4.6
+    },
+    {
+      "name": "OnePlus 9",
+      "id": 4,
+      "title": "OnePlus 9",
+      "image": "https://m-cdn.phonearena.com/images/articles/383784-image/Samsung-Galaxy-S21-Ultra-vs-OnePlus-9-Pro.jpg",
+      "description": "Flagship killer with Snapdragon 888, 120Hz Fluid AMOLED display.",
+      "price": 729,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony Xperia 5 II",
+      "id": 5,
+      "title": "Sony Xperia 5 II",
+      "image": "https://cdn.pocket-lint.com/r/s/970x/assets/images/153493-phones-review-hands-on-sony-xperia-5-ii-preview-image1-pik53zlfnu.jpg",
+      "description": "Compact powerhouse with Snapdragon 865, 120Hz OLED display.",
+      "price": 949,
+      "rating": 4.4
+    },
+    {
+      "name": "Xiaomi Mi 11",
+      "id": 6,
+      "title": "Xiaomi Mi 11",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-70261/xiaomi-mi-11-featured-image-packshot-review.jpg",
+      "description": "Affordable flagship with Snapdragon 888, 108MP camera.",
+      "price": 749,
+      "rating": 4.5
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "id": 7,
+      "title": "Huawei P40 Pro",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/03/huawei-p40-announce-hands-on/-1200/gsmarena_001.jpg",
+      "description": "Exceptional camera with Kirin 990, 50MP ultra-vision camera.",
+      "price": 899,
+      "rating": 4.3
+    },
+    {
+      "name": "LG V60 ThinQ",
+      "id": 8,
+      "title": "LG V60 ThinQ",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/20/lg-v60-thinq-5g/lifestyle/-1024w2/gsmarena_016.jpg",
+      "description": "Dual screen capability with Snapdragon 865, 5000mAh battery.",
+      "price": 799,
+      "rating": 4.2
+    },
+    {
+      "name": "Motorola Edge Plus",
+      "id": 9,
+      "title": "Motorola Edge Plus",
+      "image": "https://m-cdn.phonearena.com/images/articles/361398-image/Motorola-Edge-vs-Edge.jpg",
+      "description": "Flagship performance with Snapdragon 865, curved OLED display.",
+      "price": 999,
+      "rating": 4.1
+    },
+    {
+      "name": "Nokia 8.3 5G",
+      "id": 10,
+      "title": "Nokia 8.3 5G",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/03/nokia-8-3/-1200/gsmarena_004.jpg",
+      "description": "5G ready with Snapdragon 765G, PureView quad camera.",
+      "price": 699,
+      "rating": 4.0
+    },
+    {
+      "name": "Asus ROG Phone 5",
+      "id": 11,
+      "title": "Asus ROG Phone 5",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-84181/asus-rog-phone-5-hero-1024x691.jpg",
+      "description": "Ultimate gaming phone with Snapdragon 888, 144Hz AMOLED display.",
+      "price": 999,
+      "rating": 4.7
+    },
+    {
+      "name": "Oppo Find X3 Pro",
+      "id": 12,
+      "title": "Oppo Find X3 Pro",
+      "image": "https://fdn.gsmarena.com/imgroot/news/21/03/oppo-find-x3-series-renders-price/-1200/gsmarena_001.jpg",
+      "description": "Cutting-edge design with Snapdragon 888, 50MP quad camera.",
+      "price": 1099,
+      "rating": 4.6
+    },
+    {
+      "name": "Realme GT",
+      "id": 13,
+      "title": "Realme GT",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/21/realme-gt/lifestyle/-1024w2/gsmarena_007.jpg",
+      "description": "Affordable flagship with Snapdragon 888, 120Hz AMOLED display.",
+      "price": 599,
+      "rating": 4.4
+    },
+    {
+      "name": "Vivo X60 Pro+",
+      "id": 14,
+      "title": "Vivo X60 Pro+",
+      "image": "https://fdn.gsmarena.com/imgroot/news/21/01/vivo-x60-pro-plus-official/-1200/gsmarena_001.jpg",
+      "description": "High-end device with Snapdragon 888, ZEISS optics.",
+      "price": 949,
+      "rating": 4.6
+    },
+    {
+      "name": "Lenovo Legion Phone Duel",
+      "id": 15,
+      "title": "Lenovo Legion Phone Duel",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-69989/Lenovo-Legion-Phone-Duel-featured-image-packshot-review-Recovered.jpg",
+      "description": "Gaming-focused phone with Snapdragon 865+, 144Hz display.",
+      "price": 899,
+      "rating": 4.5
+    },
+    {
+      "name": "ZTE Axon 30 Ultra",
+      "id": 16,
+      "title": "ZTE Axon 30 Ultra",
+      "image": "https://fdn.gsmarena.com/imgroot/news/21/04/zte-axon-30-ultra-press-renders/-1200/gsmarena_001.jpg",
+      "description": "Premium design with Snapdragon 888, 144Hz AMOLED display.",
+      "price": 749,
+      "rating": 4.3
+    },
+    {
+      "name": "Nubia Red Magic 6",
+      "id": 17,
+      "title": "Nubia Red Magic 6",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79947/nubia_redmagic_6_pro_back.jpg",
+      "description": "High-performance gaming phone with Snapdragon 888, 165Hz display.",
+      "price": 699,
+      "rating": 4.6
+    },
+    {
+      "name": "Honor 50",
+      "id": 18,
+      "title": "Honor 50",
+      "image": "https://fdn.gsmarena.com/imgroot/news/21/06/honor-50-series-announced/-1200/gsmarena_001.jpg",
+      "description": "Stylish design with Snapdragon 778G, 108MP camera.",
+      "price": 549,
+      "rating": 4.5
+    }
+   
+   
   
-    
+]
